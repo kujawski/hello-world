@@ -5,4 +5,8 @@ chujek i duparfeioje
 218
 fhi
 
+<<<<<<< HEAD:dupa.txt
 fnvdj 00000000
+=======
+papaparapa
+>>>>>>> huhu:dupsko/dupa.txt
